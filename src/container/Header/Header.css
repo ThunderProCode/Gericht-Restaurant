@@ -7,7 +7,7 @@
     color: var(--color-golden);
     font-weight: 700;
     letter-spacing: 0.04em;
-    text-transform: capitalize;
+    text-transform: uppercase;
     line-height: 117px;
     font-size: 90px;
 }
@@ -16,7 +16,7 @@
     width: 80%;
 }
 
-@media screen and (min-width: 2000px) {
+/* @media screen and (min-width: 2000px) {
     .app__header-h1 {
         font-size: 180px;
         line-height: 210px;
@@ -41,4 +41,4 @@
         font-size: 50px;
         line-height: 70px;
     }
-}
+} */
