@@ -25,7 +25,7 @@ const Navbar = () => {
           <a href="#menu">Menu</a>
         </li>
         <li className="p__opensans">
-          <a href="#awars">Awards</a>
+          <a href="#awards">Awards</a>
         </li>
         <li className="p__opensans">
           <a href="#contact">contact</a>
@@ -53,7 +53,7 @@ const Navbar = () => {
                 <a href="#menu">Menu</a>
               </li>
               <li className="p__opensans">
-                <a href="#awars">Awards</a>
+                <a href="#awards">Awards</a>
               </li>
               <li className="p__opensans">
                 <a href="#contact">contact</a>
